@@ -6,8 +6,8 @@ Documentation Paper
 
 =====================================
 
-Software Requirements Specification (SRS)
-Documentation_Software_Engineering_Project
-eCommerce Website, Electronics Online Store
+1. Software Requirements Specification (SRS)
+2. Documentation_Software_Engineering_Project
+3. eCommerce Website, Electronics Online Store
 
 ======================================
